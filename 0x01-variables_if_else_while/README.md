@@ -9,3 +9,4 @@ c if,while
 7. Smile in the mirror
 8. Hexadecimal
 10. Inventing is a combination of brains and materials. The more brains you use, the less material you need
+12. Software is eating the World

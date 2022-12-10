@@ -7,3 +7,4 @@ c if,while
 5. Numbers
 6. Numberz
 7. Smile in the mirror
+8. Hexadecimal

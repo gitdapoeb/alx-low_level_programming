@@ -38,3 +38,6 @@ Task 8-24_hours.c
 Task 9-times_table.c 
 Task 10-add.c 
 Task 11-print_to_98.c
+7. There are only 3 colors, 10 digits, and 7 notes; its what we do with them thats important
+
+mandatory

@@ -15,6 +15,16 @@ git add .
 git commit - "Task <number>"
 git push
 
+For tasks having cat main.c do the following steps
+Create the task file example 1-alphapet.c and input the script
+Run betty filename (1-alphabet.c)
+Create the main.c file in the instruction
+Copy and paste the main.c script given forthat particular task.
+Run the gcc code given in that task example gcc -Wall -pedantic -Werror -Wextra -std=gnu89 _putchar.c 1-main.c 1-alphabet.c -o 1-alphabet
+git add .
+git commit -m ''
+git push
+
 Task List
 Task 0-putchar.c 
 Task 1-alphabet.c
